@@ -10,7 +10,7 @@ namespace CSharpLess
     {
         static void Main(string[] args)
         {
-           Properties.Class1.questionnaire();
+            Properties.Class1.questionnaire();
             Properties.Class2.indexHeightWeight();
             Properties.Class3.calculatingDistance();
             Properties.Class4.exchange();
