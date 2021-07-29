@@ -1,0 +1,7 @@
+D:\Архив\IT\GB\CSharpLess\CSharpLess\CSharpLess\bin\Debug\CSharpLess.exe.config
+D:\Архив\IT\GB\CSharpLess\CSharpLess\CSharpLess\bin\Debug\CSharpLess.exe
+D:\Архив\IT\GB\CSharpLess\CSharpLess\CSharpLess\bin\Debug\CSharpLess.pdb
+D:\Архив\IT\GB\CSharpLess\CSharpLess\CSharpLess\obj\Debug\CSharpLess.csproj.AssemblyReference.cache
+D:\Архив\IT\GB\CSharpLess\CSharpLess\CSharpLess\obj\Debug\CSharpLess.csproj.CoreCompileInputs.cache
+D:\Архив\IT\GB\CSharpLess\CSharpLess\CSharpLess\obj\Debug\CSharpLess.exe
+D:\Архив\IT\GB\CSharpLess\CSharpLess\CSharpLess\obj\Debug\CSharpLess.pdb
